@@ -1,0 +1,10 @@
+#
+# Fix cgroup on rpi
+#
+
+sudo nano /boot/firmware/cmdline.txt
+
+# And add the following options:
+
+cgroup_enable=memory cgroup_memory=1
+
