@@ -1,0 +1,4 @@
+# Changing ebtables to legacy iptables:
+https://v1-17.docs.kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/#letting-iptables-see-bridged-traffic
+
+
