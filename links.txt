@@ -1,4 +1,5 @@
 # Changing ebtables to legacy iptables:
 https://v1-17.docs.kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/#letting-iptables-see-bridged-traffic
 
-
+# Adjust memory cgroup on rpi
+https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi#4-installing-microk8s
